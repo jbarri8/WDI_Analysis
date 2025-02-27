@@ -12,6 +12,6 @@
 
 ## Published HTML Report and Slides
 
-- [WDI Analysis Report (HTML)](https://jbarri8.github.io/WDI_Analysis/report.html)
+- [WDI Analysis Report](https://jbarri8.github.io/WDI_Analysis/report.html)
 
-- [WDI Analysis Presentation (Reveal.js)](https://jbarri8.github.io/WDI_Analysis/presentation.html)
+- [WDI Analysis Presentation](https://jbarri8.github.io/WDI_Analysis/presentation.html)
