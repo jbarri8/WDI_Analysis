@@ -10,6 +10,6 @@
 
 - [GitHub Repository](https://github.com/jbarri8/WDI_Analysis)
 
-## Published HTML Report
+## Published HTML Report and Presentation
 
 - [WDI Analysis](https://jbarri8.github.io/WDI_Analysis/)
