@@ -10,3 +10,8 @@
 
 - [GitHub Repository](https://github.com/jbarri8/WDI_Analysis)
 
+## Published HTML Report
+
+- [WDI Analysis Report (HTML)](https://jbarri8.github.io/WDI_Analysis/analysis.html)
+
+- [WDI Analysis Presentation (Reveal.js)](https://jbarri8.github.io/WDI_Analysis/presentation.html)
